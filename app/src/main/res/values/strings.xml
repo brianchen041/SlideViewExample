@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SlideViewExample</string>
+    <string name="tab_text_1">TAB1</string>
+    <string name="tab_text_2">TAB2</string>
+    <string name="switch_to_tab2">Switch to TAB2</string>
+    <string name="tab2_item_title">Item %d</string>
+    <string name="tab2_item_date_pattern">yyyy/MM/dd (E)</string>
+</resources>
